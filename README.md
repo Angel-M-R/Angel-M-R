@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **frameworks**
-
+- 🌱 I’m currently working with react
 - 📫 How to reach me **angelmorenoromera@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/angel-moreno-romera/](https://www.linkedin.com/in/angel-moreno-romera/)
