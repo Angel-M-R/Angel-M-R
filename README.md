@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently working with react
-- 📫 How to reach me **angelmorenoromera@gmail.com**
+- 🌱 I’m currently working with next JS
+- https://angel-m-r.github.io/
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/angel-moreno-romera/](https://www.linkedin.com/in/angel-moreno-romera/)
+
 
 <p align="left">
 </p>
