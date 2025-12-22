@@ -38,7 +38,7 @@ Mailing:
 - Resend
 
 Hosting:
-- Start on Vercel and BaaS, move to VPS then load balancers and queue systems
+- Start on Vercel or railway, move to VPS then load balancers and queue systems
 
 Mobile:
 - Expo
