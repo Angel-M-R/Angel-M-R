@@ -4,9 +4,9 @@
 
 </div>
 
-<img src="assets/spain.svg" align="right" width="740" alt="Dotted world map with a pulsing blue waypoint on Spain." />
+<img src="assets/spain.svg" align="right" width="640" alt="Dotted world map with a pulsing blue waypoint on Spain." />
 
-<br/>
+<br/><br/><br/>
 
 <p align="center"><a href="https://angelmr.dev/about"><code>about me</code></a></p>
 <p align="center"><a href="https://angelmr.dev/workspace"><code>workspace</code></a></p>
