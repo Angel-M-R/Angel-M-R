@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 46" width="230" height="46" role="img" aria-label="workspace">
   <rect width="230" height="46" fill="#0a0b0d"/>
-  <rect x="14" y="8" width="103" height="30" rx="7" fill="#1e242c"/>
-  <text x="25" y="28" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3b82f6">workspace</text>
-  <rect x="25" y="32" width="81" height="1.2" fill="#3b82f6" opacity="0.55"/>
+  <rect x="63.5" y="8" width="103" height="30" rx="7" fill="#1e242c"/>
+  <text x="74.5" y="28" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3b82f6">workspace</text>
+  <rect x="74.5" y="32" width="81" height="1.2" fill="#3b82f6" opacity="0.55"/>
 </svg>
