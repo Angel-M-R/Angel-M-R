@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 46" width="230" height="46" role="img" aria-label="x ↗">
-  <path d="M0 0 H230 V34 Q230 46 218 46 H12 Q0 46 0 34 Z" fill="#0a0b0d"/>
-  <rect x="90.5" y="8" width="49" height="30" rx="7" fill="#1e242c"/>
-  <text x="101.5" y="28" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3b82f6">x ↗</text>
-  <rect x="101.5" y="32" width="27" height="1.2" fill="#3b82f6" opacity="0.55"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 62" width="230" height="62" role="img" aria-label="x ↗">
+  <path d="M0 0 H230 V50 Q230 62 218 62 H12 Q0 62 0 50 Z" fill="#0a0b0d"/>
+  <rect x="76.5" y="10" width="77" height="42" rx="9" fill="#1e242c"/>
+  <text x="91.5" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#3b82f6">x ↗</text>
+  <rect x="91.5" y="46" width="47" height="1.6" fill="#3b82f6" opacity="0.55"/>
 </svg>
