@@ -10,6 +10,16 @@
 
 <br clear="both"/>
 
+---
+
+# TEST-A heading gigante
+
+## Achievements
+
+<font size="7" color="#ff0000">TEST-B font tag tamaño 7 rojo</font>
+
+TEST-C overflow: `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+
 <!--
 
 ```console
