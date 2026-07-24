@@ -4,22 +4,19 @@
 
 </div>
 
-<table>
-<tr>
-<td width="200" align="center" valign="middle">
-<p><a href="https://angelmr.dev/about"><code>about me</code></a></p>
-<p><a href="https://angelmr.dev/workspace"><code>workspace</code></a></p>
-<p><a href="https://angelmr.dev"><code>projects</code></a></p>
-<p><a href="https://angelmr.dev"><code>blog</code></a></p>
-<hr/>
-<p><a href="https://www.linkedin.com/in/angel-moreno-romera/"><code>linkedin ↗</code></a></p>
-<p><a href="https://x.com/_angelmr_"><code>x ↗</code></a></p>
-</td>
-<td align="right" valign="middle">
-<img src="assets/spain.svg" width="740" alt="Dotted world map with a pulsing blue waypoint on Spain." />
-</td>
-</tr>
-</table>
+<img src="assets/spain.svg" align="right" width="740" alt="Dotted world map with a pulsing blue waypoint on Spain." />
+
+<br/>
+
+<p align="center"><a href="https://angelmr.dev/about"><code>about me</code></a></p>
+<p align="center"><a href="https://angelmr.dev/workspace"><code>workspace</code></a></p>
+<p align="center"><a href="https://angelmr.dev"><code>projects</code></a></p>
+<p align="center"><a href="https://angelmr.dev"><code>blog</code></a></p>
+<p align="center">—</p>
+<p align="center"><a href="https://www.linkedin.com/in/angel-moreno-romera/"><code>linkedin ↗</code></a></p>
+<p align="center"><a href="https://x.com/_angelmr_"><code>x ↗</code></a></p>
+
+<br clear="both"/>
 
 <!--
 
