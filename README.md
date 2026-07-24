@@ -16,10 +16,7 @@
 <p><a href="https://x.com/_angelmr_"><code>x ↗</code></a></p>
 </td>
 <td align="right" valign="middle">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="assets/spain-light.svg" />
 <img src="assets/spain.svg" width="740" alt="Dotted world map with a pulsing blue waypoint on Spain." />
-</picture>
 </td>
 </tr>
 </table>
