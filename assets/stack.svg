@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 592" width="940" height="592" role="img" aria-label="My 2026 tech stack drawn as an animated system diagram: requests flow from the user through Vercel edge into Astro, Next.js and Expo apps, then Fastify and tRPC, down to Postgres, Upstash Redis and Cloudflare R2.">
+  <title>stack — 2026 · a request's journey</title>
+  <style>
+    .t{font:700 15px ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#f2f0e8;text-anchor:middle}
+    .s{font:400 11.5px ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#9b9a91;text-anchor:middle}
+    .l{font:700 10px ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#9b9a91;letter-spacing:2.5px}
+    .m{font:400 12.5px ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#9b9a91}
+    .a{fill:#3b82f6}
+    .box{fill:#111318;stroke:#262a33}
+    .wire{fill:none;stroke:#262a33;stroke-width:1.5}
+    .flow{fill:none;stroke:#3b82f6;stroke-width:1.5;stroke-opacity:.38;stroke-dasharray:3 8;animation:dash .9s linear infinite}
+    @keyframes dash{to{stroke-dashoffset:-11}}
+    @media (prefers-reduced-motion:reduce){.flow{animation:none}.pkt{display:none}}
+  </style>
+  <defs>
+    <filter id="pglow" x="-200%" y="-200%" width="500%" height="500%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#3b82f6" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="939" height="591" rx="14" fill="#0a0b0d" stroke="#262a33"/>
+
+  <!-- terminal chrome -->
+  <path d="M0.5 14.5 A14 14 0 0 1 14.5 0.5 H925.5 A14 14 0 0 1 939.5 14.5 V36.5 H0.5 Z" fill="#111318"/>
+  <line x1="0.5" y1="36.5" x2="939.5" y2="36.5" stroke="#262a33"/>
+  <circle cx="22" cy="18.5" r="5" fill="#262a33"/>
+  <circle cx="40" cy="18.5" r="5" fill="#262a33"/>
+  <circle cx="58" cy="18.5" r="5" fill="#3b82f6"/>
+  <text class="s" x="470" y="22.5">stack — 2026 · a request's journey</text>
+
+  <!-- wires -->
+  <g class="wire">
+    <path d="M470 96 V132"/>
+    <path d="M470 172 V186 H180 V210"/>
+    <path d="M470 172 V210"/>
+    <path d="M470 172 V186 H760 V210"/>
+    <path d="M470 268 V316"/>
+    <path d="M470 368 V392 H180 V416"/>
+    <path d="M470 368 V416"/>
+    <path d="M470 368 V392 H760 V416"/>
+  </g>
+  <!-- animated current on the wires -->
+  <g class="flow">
+    <path d="M470 96 V132"/>
+    <path d="M470 172 V210"/>
+    <path d="M470 268 V316"/>
+    <path d="M470 368 V416"/>
+  </g>
+
+  <!-- user -->
+  <rect class="box" x="398" y="62" width="144" height="34" rx="8"/>
+  <text class="t" x="470" y="84" style="font-size:13.5px">~ you</text>
+
+  <!-- edge -->
+  <text class="l" x="42" y="157">EDGE</text>
+  <rect class="box" x="260" y="132" width="420" height="40" rx="8"/>
+  <text class="t" x="470" y="153" style="font-size:13.5px">vercel edge</text>
+  <text class="s" x="470" y="166">cdn · botid captcha · ddos firewall</text>
+
+  <!-- apps -->
+  <text class="l" x="42" y="242">APPS</text>
+  <rect class="box" x="90" y="210" width="180" height="58" rx="8"/>
+  <text class="t" x="180" y="234">astro + vite</text>
+  <text class="s" x="180" y="252">landing · homepage.com</text>
+
+  <rect class="box" x="350" y="210" width="240" height="58" rx="8"/>
+  <text class="t" x="470" y="234">next.js</text>
+  <text class="s" x="470" y="252">app · zod · zustand · tailwind</text>
+
+  <rect class="box" x="670" y="210" width="180" height="58" rx="8"/>
+  <text class="t" x="760" y="234">expo</text>
+  <text class="s" x="760" y="252">mobile · ios + android</text>
+
+  <!-- api -->
+  <text class="l" x="42" y="348">API</text>
+  <rect class="box" x="280" y="316" width="380" height="52" rx="8"/>
+  <text class="t" x="470" y="337">fastify · tRPC · react query</text>
+  <text class="s" x="470" y="355">auth: better auth <tspan class="a">→ clerk soon</tspan></text>
+
+  <!-- data -->
+  <text class="l" x="42" y="448">DATA</text>
+  <rect class="box" x="90" y="416" width="180" height="52" rx="8"/>
+  <text class="t" x="180" y="437">postgres</text>
+  <text class="s" x="180" y="455">drizzle · supabase</text>
+
+  <rect class="box" x="380" y="416" width="180" height="52" rx="8"/>
+  <text class="t" x="470" y="437">upstash redis</text>
+  <text class="s" x="470" y="455">cache</text>
+
+  <rect class="box" x="670" y="416" width="180" height="52" rx="8"/>
+  <text class="t" x="760" y="437">cloudflare r2</text>
+  <text class="s" x="760" y="455">file storage</text>
+
+  <!-- packets travelling the request path -->
+  <g class="pkt">
+    <circle r="3.4" fill="#3b82f6" filter="url(#pglow)">
+      <animateMotion dur="5.2s" repeatCount="indefinite" path="M470 96 L470 316 L470 368 L470 392 L180 392 L180 442"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.92;1" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.4" fill="#3b82f6" filter="url(#pglow)">
+      <animateMotion dur="5.2s" begin="1.7s" repeatCount="indefinite" path="M470 96 L470 368 L470 442"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.92;1" dur="5.2s" begin="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.4" fill="#3b82f6" filter="url(#pglow)">
+      <animateMotion dur="5.2s" begin="3.4s" repeatCount="indefinite" path="M470 96 L470 368 L470 392 L760 392 L760 442"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.92;1" dur="5.2s" begin="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.4" fill="#2eb9df" filter="url(#pglow)">
+      <animateMotion dur="5.2s" begin="2.5s" repeatCount="indefinite" path="M470 96 L470 186 L760 186 L760 234"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.2s" begin="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- sidecars -->
+  <text class="m" x="42" y="512"><tspan class="l">TOOLING</tspan><tspan dx="14">turborepo · pnpm · vitest · plane</tspan></text>
+  <text class="m" x="898" y="512" text-anchor="end"><tspan>stripe · resend</tspan><tspan dx="14" class="l">SERVICES</tspan></text>
+
+  <line x1="26" y1="534" x2="914" y2="534" stroke="#262a33"/>
+  <text class="m" x="42" y="562"><tspan class="a">$</tspan><tspan dx="8">scale:</tspan><tspan dx="8" fill="#c9c5b8">vercel / railway → vps → load balancers + queues</tspan></text>
+</svg>
