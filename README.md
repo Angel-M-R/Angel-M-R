@@ -6,15 +6,11 @@
 
 <a href="https://angelmr.dev"><img src="assets/spain.svg" align="right" width="640" alt="Dotted world map with a pulsing blue waypoint on Spain." /></a>
 
-<br/><br/><br/>
-
-<p align="center"><a href="https://angelmr.dev/about"><img src="assets/btn-about.svg" width="150" alt="about me" /></a></p>
-<p align="center"><a href="https://angelmr.dev/workspace"><img src="assets/btn-workspace.svg" width="150" alt="workspace" /></a></p>
-<p align="center"><a href="https://angelmr.dev"><img src="assets/btn-projects.svg" width="150" alt="projects" /></a></p>
-<p align="center"><a href="https://angelmr.dev"><img src="assets/btn-blog.svg" width="150" alt="blog" /></a></p>
-<p align="center">—</p>
-<p align="center"><a href="https://www.linkedin.com/in/angel-moreno-romera/"><img src="assets/btn-linkedin.svg" width="150" alt="linkedin" /></a></p>
-<p align="center"><a href="https://x.com/_angelmr_"><img src="assets/btn-x.svg" width="150" alt="x" /></a></p>
+<p align="center"><a href="https://angelmr.dev/about"><img src="assets/btn-about.svg" width="230" alt="about me" /></a></p>
+<p align="center"><a href="https://angelmr.dev/workspace"><img src="assets/btn-workspace.svg" width="230" alt="workspace" /></a></p>
+<p align="center"><a href="https://angelmr.dev"><img src="assets/btn-projects.svg" width="230" alt="projects" /></a></p>
+<p align="center"><a href="https://angelmr.dev"><img src="assets/btn-blog.svg" width="230" alt="blog" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/angel-moreno-romera/"><img src="assets/btn-linkedin.svg" width="110" alt="linkedin" /></a>&nbsp;<a href="https://x.com/_angelmr_"><img src="assets/btn-x.svg" width="110" alt="x" /></a></p>
 
 <br clear="both"/>
 
