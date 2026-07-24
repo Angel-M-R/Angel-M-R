@@ -9,7 +9,7 @@
     @keyframes drop{from{opacity:0;transform:translate(437.3px,147.8px) scale(.6)}to{opacity:1;transform:translate(437.3px,173.8px) scale(1)}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
-  <g fill="rgba(242,240,232,0.32)" aria-hidden="true">
+  <g fill="rgba(17,19,24,0.30)" aria-hidden="true">
     <circle cx="141.8" cy="13.0" r="1.8"/><circle cx="150.3" cy="13.0" r="1.8"/><circle cx="158.7" cy="13.0" r="1.8"/><circle cx="192.5" cy="13.0" r="1.8"/><circle cx="200.9" cy="13.0" r="1.8"/><circle cx="217.8" cy="13.0" r="1.8"/><circle cx="226.3" cy="13.0" r="1.8"/><circle cx="234.7" cy="13.0" r="1.8"/><circle cx="243.2" cy="13.0" r="1.8"/><circle cx="251.6" cy="13.0" r="1.8"/><circle cx="260.0" cy="13.0" r="1.8"/><circle cx="310.7" cy="13.0" r="1.8"/><circle cx="319.1" cy="13.0" r="1.8"/><circle cx="327.6" cy="13.0" r="1.8"/>
     <circle cx="336.0" cy="13.0" r="1.8"/><circle cx="344.5" cy="13.0" r="1.8"/><circle cx="352.9" cy="13.0" r="1.8"/><circle cx="361.4" cy="13.0" r="1.8"/><circle cx="369.8" cy="13.0" r="1.8"/><circle cx="378.2" cy="13.0" r="1.8"/><circle cx="386.7" cy="13.0" r="1.8"/><circle cx="521.8" cy="13.0" r="1.8"/><circle cx="631.5" cy="13.0" r="1.8"/><circle cx="640.0" cy="13.0" r="1.8"/><circle cx="648.4" cy="13.0" r="1.8"/><circle cx="656.8" cy="13.0" r="1.8"/><circle cx="665.3" cy="13.0" r="1.8"/><circle cx="673.7" cy="13.0" r="1.8"/>
     <circle cx="682.2" cy="13.0" r="1.8"/><circle cx="690.6" cy="13.0" r="1.8"/><circle cx="699.1" cy="13.0" r="1.8"/><circle cx="707.5" cy="13.0" r="1.8"/><circle cx="715.9" cy="13.0" r="1.8"/><circle cx="724.4" cy="13.0" r="1.8"/><circle cx="732.8" cy="13.0" r="1.8"/><circle cx="741.3" cy="13.0" r="1.8"/><circle cx="749.7" cy="13.0" r="1.8"/><circle cx="758.2" cy="13.0" r="1.8"/><circle cx="766.6" cy="13.0" r="1.8"/><circle cx="775.0" cy="13.0" r="1.8"/><circle cx="783.5" cy="13.0" r="1.8"/><circle cx="791.9" cy="13.0" r="1.8"/>
@@ -175,7 +175,7 @@
   <g class="pin" transform="translate(437.3,173.8)">
     <g transform="translate(-12,-21) scale(0.5)">
       <path fill="#3b82f6" transform="translate(24 0) scale(0.90 1) translate(-24 0)" d="M24 2.5C14.9 2.5 7.5 9.9 7.5 19C7.5 31.9 24 45.5 24 45.5S40.5 31.9 40.5 19C40.5 9.9 33.1 2.5 24 2.5Z"/>
-      <circle fill="#0a0b0d" cx="24" cy="19" r="6.6"/>
+      <circle fill="#ffffff" cx="24" cy="19" r="6.6"/>
     </g>
     <g transform="translate(0,-40)">
       <rect x="-34" y="-13" width="68" height="22" rx="4" fill="#000" stroke="#3b82f6"/>

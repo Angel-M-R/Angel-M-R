@@ -6,8 +6,8 @@
 
 <table>
 <tr>
-<td width="230" valign="middle">
-<p><a href="https://angelmr.dev/about"><code>about</code></a></p>
+<td width="200" align="center" valign="middle">
+<p><a href="https://angelmr.dev/about"><code>about me</code></a></p>
 <p><a href="https://angelmr.dev/workspace"><code>workspace</code></a></p>
 <p><a href="https://angelmr.dev"><code>projects</code></a></p>
 <p><a href="https://angelmr.dev"><code>blog</code></a></p>
@@ -16,7 +16,10 @@
 <p><a href="https://x.com/_angelmr_"><code>x ↗</code></a></p>
 </td>
 <td align="right" valign="middle">
-<img src="assets/spain.svg" width="690" alt="Dotted world map with a pulsing blue waypoint on Spain." />
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="assets/spain-light.svg" />
+<img src="assets/spain.svg" width="740" alt="Dotted world map with a pulsing blue waypoint on Spain." />
+</picture>
 </td>
 </tr>
 </table>
