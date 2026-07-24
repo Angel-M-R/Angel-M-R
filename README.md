@@ -12,13 +12,14 @@
 
 ---
 
-# TEST-A heading gigante
+<!-- TEST-D: width-forcing table (2400px, table-layout:fixed ignores max-width) -->
+<table><tr><td width="2400">TEST-D tabla ancha 2400px que no debería poder encoger</td></tr></table>
 
-## Achievements
+<!-- TEST-E: image forced far beyond container via width attribute in px -->
+<img src="assets/hero.svg" width="2400" alt="TEST-E imagen forzada a 2400px" />
 
-<font size="7" color="#ff0000">TEST-B font tag tamaño 7 rojo</font>
-
-TEST-C overflow: `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+<!-- TEST-F: preformatted block with an enormous single unbreakable token -->
+<pre>TEST-F WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW</pre>
 
 <!--
 
