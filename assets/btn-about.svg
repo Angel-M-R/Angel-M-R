@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 52" width="230" height="52" role="img" aria-label="about me">
-  <rect width="230" height="52" rx="10" fill="#0a0b0d"/>
-  <text x="115" y="31.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#f2f0e8">about me</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 46" width="230" height="46" role="img" aria-label="about me">
+  <path d="M0 46 V12 Q0 0 12 0 H218 Q230 0 230 12 V46 Z" fill="#0a0b0d"/>
+  <rect x="14" y="8" width="94" height="30" rx="7" fill="#1e242c"/>
+  <text x="25" y="28" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3b82f6">about me</text>
+  <rect x="25" y="32" width="72" height="1.2" fill="#3b82f6" opacity="0.55"/>
 </svg>
