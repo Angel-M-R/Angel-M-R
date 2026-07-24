@@ -1,12 +1,27 @@
 <div align="center">
 
-<a href="https://angelmr.dev"><img src="assets/hero.svg" width="100%" alt="angelmr — software, systems, and deliberate craft." /></a>
-
-[`about`](https://angelmr.dev/about) · [`workspace`](https://angelmr.dev/workspace) · [`projects`](https://angelmr.dev) · [`blog`](https://angelmr.dev) &nbsp;—&nbsp; [`linkedin ↗`](https://www.linkedin.com/in/angel-moreno-romera/) · [`x ↗`](https://x.com/_angelmr_)
+<a href="https://angelmr.dev"><img src="assets/hero.svg" width="100%" alt="angelmr" /></a>
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="230" valign="middle">
+<p><a href="https://angelmr.dev/about"><code>about</code></a></p>
+<p><a href="https://angelmr.dev/workspace"><code>workspace</code></a></p>
+<p><a href="https://angelmr.dev"><code>projects</code></a></p>
+<p><a href="https://angelmr.dev"><code>blog</code></a></p>
+<hr/>
+<p><a href="https://www.linkedin.com/in/angel-moreno-romera/"><code>linkedin ↗</code></a></p>
+<p><a href="https://x.com/_angelmr_"><code>x ↗</code></a></p>
+</td>
+<td align="right" valign="middle">
+<img src="assets/spain.svg" width="690" alt="Dotted world map with a pulsing blue waypoint on Spain." />
+</td>
+</tr>
+</table>
+
+<!--
 
 ```console
 $ whoami
@@ -23,15 +38,11 @@ Now, in the AI era, for the first time, those ideas might come to life
 faster than they pile up.
 ```
 
-<br/>
-
 <div align="center">
 
-<img src="assets/stack.svg" width="100%" alt="My 2026 tech stack as an animated system diagram: user → vercel edge → astro / next.js / expo → fastify + tRPC → postgres, upstash redis and cloudflare R2. Tooling: turborepo, pnpm, vitest, plane. Services: stripe, resend. Scale path: vercel/railway → vps → load balancers + queues." />
+<img src="assets/stack.svg" width="100%" alt="My 2026 tech stack as an animated system diagram." />
 
 </div>
-
-<br/>
 
 ```console
 $ ls ~/workspace
@@ -41,14 +52,10 @@ agents/      → parallel AI coding agents · 24/7 on a vps
 homelab/     → intel nuc + proxmox nodes · docker · unraid · immich
 ```
 
-<br/>
-
 <div align="center">
-
-<img src="assets/spain.svg" width="100%" alt="Dotted world map with a pulsing blue waypoint on Spain." />
-
-<br/><br/>
 
 `software, systems, and deliberate craft.` — [`angelmr.dev`](https://angelmr.dev)
 
 </div>
+
+-->
